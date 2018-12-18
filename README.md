@@ -1,5 +1,8 @@
 # vue-assembly
 vue组件（小dom）
 
-##Dome
-	1.计算器 (Calculator)
+## 目录
+
+<a name="active"></a>
+
+*	计算器 (Calculator);
